@@ -13,6 +13,7 @@
     <string name="Back">返回</string>
     <string name="lableMainActivity">主畫面</string>
     <string name="lableAfterLogin">登入後畫面</string>
+    <string name="lableLogin">登入畫面</string>
     <string name="hintUserID">請輸入帳號</string>
     <string name="hintPassword">請輸入密碼</string>
 </resources>

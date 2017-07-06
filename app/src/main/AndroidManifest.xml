@@ -19,8 +19,13 @@
         <activity android:name=".RpsActivity" />
         <activity
             android:name=".AfterLoginActivity"
-            android:label="@string/lableAfterLogin"></activity>
-        <activity android:name=".LoginActivity"></activity>
+            android:label="@string/lableAfterLogin">
+
+        </activity>
+        <activity android:name=".LoginActivity"
+            android:label="@string/lableLogin">
+
+        </activity>
     </application>
 
 </manifest>
