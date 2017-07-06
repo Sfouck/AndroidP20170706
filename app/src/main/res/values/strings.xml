@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">P20170706</string>
+    <string name="str_select">你要出的是......</string>
+    <string name="str_rock">石頭</string>
+    <string name="str_scissors">剪刀</string>
+    <string name="str_paper">布</string>
+    <string name="playerPicked">玩家出了</string>
+    <string name="computerPicked">電腦出了</string>
+    <string name="initScore">0:0</string>
+    <string name="UserID">帳號</string>
+    <string name="Password">密碼</string>
+</resources>
