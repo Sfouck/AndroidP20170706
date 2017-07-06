@@ -7,8 +7,6 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
-import org.w3c.dom.Text;
-
 public class AfterLoginActivity extends AppCompatActivity {
     TextView tvUserID;
     TextView tvPassword;
@@ -34,7 +32,7 @@ public class AfterLoginActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent intent = new Intent();
-                intent.setClass(AfterLoginActivity.this,MainActivity.class);
+                intent.setClass(AfterLoginActivity.this,LoginActivity.class);
                 startActivity(intent);
             }
         });
