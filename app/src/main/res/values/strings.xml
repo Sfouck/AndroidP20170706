@@ -9,4 +9,8 @@
     <string name="initScore">0:0</string>
     <string name="UserID">帳號</string>
     <string name="Password">密碼</string>
+    <string name="Login">登入</string>
+    <string name="Back">返回</string>
+    <string name="lableMainActivity">主畫面</string>
+    <string name="lableAfterLogin">登入後畫面</string>
 </resources>
