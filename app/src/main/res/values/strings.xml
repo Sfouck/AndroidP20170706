@@ -16,4 +16,5 @@
     <string name="lableLogin">登入畫面</string>
     <string name="hintUserID">請輸入帳號</string>
     <string name="hintPassword">請輸入密碼</string>
+    <string name="savePassword">記住密碼</string>
 </resources>
